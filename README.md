@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @qijinzing
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jinqizing@gmail.com
 
 <!---
